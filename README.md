@@ -20,8 +20,8 @@ python scaffold.py
 - [x] **8.** flag_anomalies
 - [x] **9.** digits_data
 - [x] **10.** baseline_50_random
-- [ ] **11.** representative_digits
-- [ ] **12.** train_on_representatives
+- [x] **11.** representative_digits
+- [x] **12.** train_on_representatives
 - [ ] **13.** propagate_and_train
 - [ ] **14.** synthetic_image
 - [ ] **15.** segment_colors
