@@ -1,0 +1,2 @@
+# unsupervised-learning-segment-detect-propagate-with-scikit-learn
+Chapter 8 of Hands-On Machine Learning as practitioners use it: choose the number of k-means clusters with inertia and silhouette scores, cluster the moons with DBSCAN, fit Gaussian mixtures and pick the component count with BIC, turn density into an anomaly detector, then label only 50 digits and propagate their labels through the clusters.
