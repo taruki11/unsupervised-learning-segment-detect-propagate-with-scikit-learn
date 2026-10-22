@@ -18,7 +18,7 @@ python scaffold.py
 - [x] **6.** dbscan_predict
 - [x] **7.** fit_gmm
 - [x] **8.** flag_anomalies
-- [ ] **9.** digits_data
+- [x] **9.** digits_data
 - [ ] **10.** baseline_50_random
 - [ ] **11.** representative_digits
 - [ ] **12.** train_on_representatives
