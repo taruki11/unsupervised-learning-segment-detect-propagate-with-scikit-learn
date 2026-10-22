@@ -25,8 +25,8 @@ python scaffold.py
 - [x] **13.** propagate_and_train
 - [x] **14.** synthetic_image
 - [x] **15.** segment_colors
-- [ ] **16.** save_and_reload_clusterer
-- [ ] **17.** predict_digit_labels
+- [x] **16.** save_and_reload_clusterer
+- [x] **17.** predict_digit_labels
 
 ---
 
