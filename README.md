@@ -23,7 +23,7 @@ python scaffold.py
 - [x] **11.** representative_digits
 - [x] **12.** train_on_representatives
 - [x] **13.** propagate_and_train
-- [ ] **14.** synthetic_image
+- [x] **14.** synthetic_image
 - [ ] **15.** segment_colors
 - [ ] **16.** save_and_reload_clusterer
 - [ ] **17.** predict_digit_labels
